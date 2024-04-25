@@ -7,7 +7,8 @@ from graficas import Graficas
 
 def main():
     root = tk.Tk()
-    root.title("Calculadora de Energía Mecánica")
+    root.title("UR - Calculadora de Energía Mecánica")
+    root.iconbitmap("logo.ico")
 
     tab_control = ttk.Notebook(root)
 
