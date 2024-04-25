@@ -1,25 +1,54 @@
 -------------- caida libre ---------------------------
 
+--------------- Ejercicio de Laboratorio:
 
-Supongamos que tenemos un objeto de 2 kg que se suelta desde una altura de 1.70 metros. Queremos calcular su energía mecánica en el punto más bajo de su caída.
+Utiliza un dispositivo de medición de tiempo y un objeto de masa  m=0.5kg.
+Deja caer el objeto desde una altura h=2m y registra el tiempo que tarda en llegar al suelo, 
+Utiliza los datos obtenidos para calcular la velocidad final y la energía cinética del objeto al llegar al suelo.
 
---- Cálculo a mano
+--------------- Calculadora:
 
-Masa (m): = 2 kg
-Altura (h):  = 1.70 m
-Velocidad inicial (v):  = 0 m/s (se suelta desde el reposo)
-Aceleración debido a la gravedad (g): = 9.8 m/s^2
+Ingresa la masa del objeto, 
 
---- Experimento en el laboratorio
+m=0.5kg, la altura desde la que se dejó caer, 
+h=2m,
+velocidad inicial cero en la calculadora.
 
-Utiliza un cronómetro para medir el tiempo que tarda el objeto en caer desde una altura conocida de 1.70 metros. (usar tracker)
-Registra este tiempo.
-Utiliza la relación h = 1/2 * g * t^2 para calcular la aceleración del objeto.
-Utiliza las fórmulas de energía cinética y potencial para calcular la energía mecánica total del objeto en el punto más bajo de su caída.
+Calcula la energía cinética y potencial en el momento de la caída.
+Compara los resultados obtenidos con los datos del laboratorio.
 
 
 ------------------ pendulo simple -----------------------
 
-se considera un péndulo de longitud 1 metro con una masa de 0.5 kg. El péndulo se suelta desde un ángulo inicial de 30 grados
-(aproximadamente 𝜋/6 radianes) respecto a la vertical. Se busca calcular la energía mecánica total del péndulo, considerando
-tanto su energía potencial máxima en la posición más alta como su energía cinética mínima en la posición más baja. 
+------------------ Ejercicio de Laboratorio:
+
+Utiliza un péndulo simple con una cuerda de longitud L=1m y una masa m=0.2kg.
+Mide el ángulo inicial de oscilación θ=30∘
+registra el tiempo de una oscilación completa, 
+
+Utiliza los datos obtenidos para calcular la velocidad y la energía cinética del péndulo en su posición más baja.
+
+------------------ Calculadora:
+
+Ingresa la longitud de la cuerda, 
+
+L=1m, la masa, m=0.2kg, y el ángulo de oscilación, θ=30∘
+
+Calcula la energía cinética y potencial en la posición más baja del péndulo.
+Compara los resultados obtenidos con los datos del laboratorio.
+
+--------------------- plano inclinado -------------------
+
+--------------------- Ejercicio de Laboratorio:
+
+Utiliza un plano inclinado con un ángulo α=20∘ y una masa m=0.3kg.
+Mide la altura desde la que se deja caer el objeto, h=1.5m, y registra el tiempo que tarda en llegar al suelo, 
+Utiliza los datos obtenidos para calcular la velocidad final y la energía cinética del objeto al llegar al suelo.
+
+--------------------- Calculadora:
+
+Ingresa la masa del objeto, m=0.3kg, la altura desde la que se dejó caer, 
+h=1.5m, y el ángulo del plano inclinado, α=20∘, en la calculadora.
+
+Calcula la energía cinética y potencial en el momento de la caída.
+Compara los resultados obtenidos con los datos del laboratorio.
