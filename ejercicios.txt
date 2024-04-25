@@ -1,0 +1,25 @@
+-------------- caida libre ---------------------------
+
+
+Supongamos que tenemos un objeto de 2 kg que se suelta desde una altura de 1.70 metros. Queremos calcular su energía mecánica en el punto más bajo de su caída.
+
+--- Cálculo a mano
+
+Masa (m): = 2 kg
+Altura (h):  = 1.70 m
+Velocidad inicial (v):  = 0 m/s (se suelta desde el reposo)
+Aceleración debido a la gravedad (g): = 9.8 m/s^2
+
+--- Experimento en el laboratorio
+
+Utiliza un cronómetro para medir el tiempo que tarda el objeto en caer desde una altura conocida de 1.70 metros. (usar tracker)
+Registra este tiempo.
+Utiliza la relación h = 1/2 * g * t^2 para calcular la aceleración del objeto.
+Utiliza las fórmulas de energía cinética y potencial para calcular la energía mecánica total del objeto en el punto más bajo de su caída.
+
+
+------------------ pendulo simple -----------------------
+
+se considera un péndulo de longitud 1 metro con una masa de 0.5 kg. El péndulo se suelta desde un ángulo inicial de 30 grados
+(aproximadamente 𝜋/6 radianes) respecto a la vertical. Se busca calcular la energía mecánica total del péndulo, considerando
+tanto su energía potencial máxima en la posición más alta como su energía cinética mínima en la posición más baja. 
