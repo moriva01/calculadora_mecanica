@@ -1,8 +1,4 @@
-import tkinter as tk
-from tkinter import ttk
-import matplotlib.pyplot as plt
-import numpy as np
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+from paquetes import*
 from caida_libre import CaidaLibreCalculator
 from pendulo_simple import PenduloSimpleCalculator
 from plano_inclinado import PlanoInclinadoCalculator

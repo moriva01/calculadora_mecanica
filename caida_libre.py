@@ -1,5 +1,4 @@
-import tkinter as tk
-from tkinter import messagebox
+from paquetes import *
 
 class CaidaLibreCalculator(tk.Frame):
     def __init__(self, master=None):

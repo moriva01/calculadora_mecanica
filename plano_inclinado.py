@@ -1,6 +1,4 @@
-import tkinter as tk
-from tkinter import messagebox
-import math
+from paquetes import *
 
 class PlanoInclinadoCalculator(tk.Frame):
     def __init__(self, master=None):

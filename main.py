@@ -1,5 +1,4 @@
-import tkinter as tk
-from tkinter import ttk
+from paquetes import *
 from caida_libre import CaidaLibreCalculator
 from pendulo_simple import PenduloSimpleCalculator
 from plano_inclinado import PlanoInclinadoCalculator
